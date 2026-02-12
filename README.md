@@ -1,7 +1,6 @@
 # Olá, eu sou a Ana Vitória Santos! 👋
 
 ### 🚀 Engenheira de Software | Java • Python • AWS
-Sou focada em **alta disponibilidade e performance**. Atualmente, trabalho na modernização de sistemas críticos no **Itaú Unibanco**, liderando a transição de arquiteturas Mainframe para microserviços escaláveis em nuvem.
 
 - 🎓 Pós-graduanda em **Full Stack Development** (FIAP)
 - 📊 Graduada em **Ciência de Dados** (Mackenzie)
