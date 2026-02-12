@@ -1,4 +1,4 @@
-# Olá, eu sou a Ana Vitória Santos! 👋
+[# Olá, eu sou a Ana Vitória Santos! 👋
 
 ### 🚀 Engenheira de Software | Java • Python • AWS
 [cite_start]Sou focada em **alta disponibilidade e performance**[cite: 6]. [cite_start]Atualmente, trabalho na modernização de sistemas críticos no **Itaú Unibanco**, liderando a transição de arquiteturas Mainframe para microserviços escaláveis em nuvem[cite: 7, 10, 12].
@@ -32,3 +32,4 @@
 ### 📫 Vamos nos conectar?
 - [cite_start]**LinkedIn:** [linkedin.com/in/anavitoriasilva](https://linkedin.com/in/anavitoriasilva) [cite: 4]
 - [cite_start]**E-mail:** [avsantos202@outlook.com](mailto:avsantos202@outlook.com) [cite: 3]
+](https://github.com/ana-vitoria-silva)
