@@ -1,41 +1,34 @@
-<div align="center">
-  <h1>👋 Olá, eu sou a Ana Vitória Santos</h1>
-  <p><strong>Engenheira de Software | Java • Python • AWS</strong></p>
-  <p>Especialista em modernização de sistemas críticos e arquiteturas escaláveis.</p>
-</div>
+# Olá, eu sou a Ana Vitória Santos! 👋
+
+### 🚀 Engenheira de Software | Java • Python • AWS
+Sou focada em **alta disponibilidade e performance**. Atualmente, trabalho na modernização de sistemas críticos no **Itaú Unibanco**, liderando a transição de arquiteturas Mainframe para microserviços escaláveis em nuvem.
+
+- 🎓 Pós-graduanda em **Full Stack Development** (FIAP)
+- 📊 Graduada em **Ciência de Dados** (Mackenzie)
+- 💡 Especialista em **Java (Spring Boot)**, **Python** e **IaC (Terraform)**
+- 🛠️ Entusiasta da cultura **DevOps** e de sistemas resilientes.
 
 ---
 
-### 🚀 Sobre Mim
-[cite_start]Engenheira de Software focada em alta disponibilidade e performance no setor financeiro[cite: 6]. [cite_start]Lidero a transição de arquiteturas Mainframe para microserviços escaláveis em AWS[cite: 7]. 
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-- [cite_start]🎓 **FIAP**: Pós-graduanda em Full Stack Development[cite: 28].
-- [cite_start]📊 **Mackenzie**: Graduada em Ciência de Dados[cite: 28].
-- [cite_start]🏦 **Itaú Unibanco**: Modernização de monólitos e APIs de alta performance com Java 17/21[cite: 12, 13].
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | [cite_start]`Java (Expert)`, `Python (Avançado)`, `SQL`, `VBA` [cite: 31] |
-| **Frameworks** | [cite_start]`Spring Boot`, `Spring Data JPA`, `RESTful APIs`, `JUnit` [cite: 32] |
-| **Cloud & DevOps** | [cite_start]`AWS (Lambda, S3, EC2)`, `Terraform`, `CI/CD`, `Docker`  |
-| **Dados** | [cite_start]`ETL`, `Modelagem`, `Power BI`, `Looker` [cite: 34] |
+### 📈 Destaques de Impacto
+- **Modernização Cloud:** Liderança técnica na decomposição de monólitos para Microserviços em AWS.
+- **Backend de Performance:** Construção de APIs utilizando Java 17/21 com foco em SOLID e Clean Code.
+- **Automação Inteligente:** Redução de 50% no tempo de reporting e 12% em custos operacionais via Python e otimização de algoritmos.
 
 ---
 
-### 📊 My GitHub Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-vitoria-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-vitoria-silva&layout=compact&theme=tokyonight"/>
-</p>
+### 📊 Estatísticas
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ana-vitoria-silva&show_icons=true&theme=nord)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-vitoria-silva&layout=compact&theme=nord)
 
----
-
-### 📫 Conecte-se comigo
-<p align="left">
-<a href="https://linkedin.com/in/anavitoriasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:avsantos202@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [linkedin.com/in/anavitoriasilva](https://linkedin.com/in/anavitoriasilva)
+- **E-mail:** [avsantos202@outlook.com](mailto:avsantos202@outlook.com)
